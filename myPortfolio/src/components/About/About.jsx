@@ -28,7 +28,7 @@ const About = () => {
                 'Fullstack Developer',
                 'MEARN Developer',
                 'Problem solver',
-                'Coder',
+                'Curious Learner',
               ]}
               speed={100}
               eraseSpeed={50}
@@ -72,7 +72,7 @@ const About = () => {
             <img
               src={profileImage}
               alt="Amandeep"
-              className="w-full h-full rounded-full object-cover drop-shadow-[0_10px_20px_rgba(211,82,102,0.5)]"
+              className="w-full h-full rounded-full object-cover drop-shadow-[0_10px_20px_rgba(211,82,102,0.5)] shadow-[0_0_20px_#ec454550]"
             />
           </Tilt>
         </div>
